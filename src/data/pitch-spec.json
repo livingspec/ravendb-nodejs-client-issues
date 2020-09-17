@@ -1,0 +1,2859 @@
+{
+  "title": "Pitch Spec",
+  "firstPageId": "7f85065b-d870-4d3c-a1b0-59eefa56a6b3",
+  "roles": [
+    {
+      "userId": "users/2676-A",
+      "roleId": "RbacRoles/3"
+    },
+    {
+      "userId": "users/2677-A",
+      "roleId": "RbacRoles/3"
+    },
+    {
+      "userId": "users/193-A",
+      "roleId": "RbacRoles/1"
+    }
+  ],
+  "sharedWith": ["users/2676-A", "users/2677-A", "users/193-A"],
+  "uploads": [
+    "82adbbfe-7ccb-4254-b3f8-50ac02429ee8",
+    "d2fe80cd-939f-4f9f-bbfd-2484f07b687b",
+    "8d368121-84cb-498e-8ceb-74938337dd84",
+    "b7227d57-8fe8-4f6b-b1e5-9e71adf2b2cf",
+    "22b28d4f-e4ee-4957-baca-3f5e23e5efc9",
+    "7a9c3ea6-62bf-42e7-a082-35fedb0ac20e",
+    "a22a01bf-546a-432d-a27f-c98aa48b5bef",
+    "c8ba563a-4e04-4f87-83aa-60ffca9c4b7c",
+    "344a98a0-31df-49db-9018-e00d0e7f87a1",
+    "ea9b30b0-ec83-4c1d-812b-6766c20d9120",
+    "03894fec-5169-49ab-9fbc-0788df67ebc4",
+    "0864c78c-1158-48a3-82bd-825d2e23a9e7",
+    "3acc5cd5-0a2e-4224-9a09-db2e75b1dd36"
+  ],
+  "actionItems": {
+    "edfca9f5-f13c-4891-9c8e-3ec92c5c8cf1": {
+      "priorityId": "ActionItemPriority/5",
+      "typeId": "ActionItemTypes/1",
+      "id": "edfca9f5-f13c-4891-9c8e-3ec92c5c8cf1",
+      "title": "experiment",
+      "contents": "",
+      "links": [],
+      "assignees": ["users/2595-A"]
+    },
+    "efe3a587-378e-4d46-8332-39038f2f8f32": {
+      "priorityId": "ActionItemPriority/1",
+      "typeId": "ActionItemTypes/1",
+      "id": "efe3a587-378e-4d46-8332-39038f2f8f32",
+      "title": "Do something else",
+      "contents": "",
+      "links": []
+    },
+    "4da6b166-5040-4d95-92d0-58916aebd0c2": {
+      "id": "4da6b166-5040-4d95-92d0-58916aebd0c2",
+      "title": "ML",
+      "contents": "",
+      "links": []
+    },
+    "2fa6ba2d-f27a-49b4-837c-a6728363ac3d": {
+      "id": "2fa6ba2d-f27a-49b4-837c-a6728363ac3d",
+      "title": "text to speech",
+      "contents": "",
+      "links": []
+    },
+    "e6cb2afc-3215-4f0a-91df-52a49c229b43": {
+      "id": "e6cb2afc-3215-4f0a-91df-52a49c229b43",
+      "title": "NLP",
+      "contents": "",
+      "links": []
+    },
+    "3b0c1a4a-b3e1-473c-8b9e-1e362dbdac87": {
+      "priorityId": "ActionItemPriority/5",
+      "id": "3b0c1a4a-b3e1-473c-8b9e-1e362dbdac87",
+      "title": "internal hub",
+      "contents": "",
+      "links": []
+    },
+    "138a8c9b-70ad-4a9a-af5c-e8d192674f76": {
+      "id": "138a8c9b-70ad-4a9a-af5c-e8d192674f76",
+      "title": "tasks",
+      "contents": "",
+      "links": []
+    },
+    "a3a6cd4e-6004-41da-908b-761e6e944662": {
+      "id": "a3a6cd4e-6004-41da-908b-761e6e944662",
+      "title": "disparate systems",
+      "contents": "",
+      "links": []
+    },
+    "c44671ad-33b4-484e-9507-81fb16a91316": {
+      "id": "c44671ad-33b4-484e-9507-81fb16a91316",
+      "title": "Information Loss",
+      "contents": "",
+      "links": []
+    },
+    "419fcd55-4d4e-4aa2-b802-aaf1f56fdd44": {
+      "priorityId": "ActionItemPriority/4",
+      "typeId": "ActionItemTypes/6",
+      "statusId": "actionItemStatuses/2",
+      "id": "419fcd55-4d4e-4aa2-b802-aaf1f56fdd44",
+      "title": "Define some requirements",
+      "contents": "",
+      "links": [],
+      "assignees": ["users/2595-A"]
+    },
+    "70f347a6-98e9-40f9-98d3-8291b3b1b4bd": {
+      "typeId": "ActionItemTypes/6",
+      "statusId": "actionItemStatuses/3",
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Reference: Panopto Workplace Knowledge and Productivity Report"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "70f347a6-98e9-40f9-98d3-8291b3b1b4bd",
+      "title": "Information loss",
+      "links": [],
+      "assignees": ["users/2595-A"]
+    }
+  },
+  "pages": {
+    "7f85065b-d870-4d3c-a1b0-59eefa56a6b3": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "heading-four",
+              "children": [
+                {
+                  "text": "Overview"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This is a fun "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "experiment",
+                  "id": "edfca9f5-f13c-4891-9c8e-3ec92c5c8cf1",
+                  "children": [
+                    {
+                      "text": "experiment"
+                    }
+                  ]
+                },
+                {
+                  "text": " to "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "represent",
+                  "id": "b3625280-3567-4dc3-aca4-5c85a4ac9333",
+                  "children": [
+                    {
+                      "text": "represent"
+                    }
+                  ]
+                },
+                {
+                  "text": " the premise and pitch of Living Spec in spec format. 🎉 🎉 🎉"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Living Spec: A "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "single source of truth",
+                  "id": "f4cfc9cb-022e-41af-8fdd-8b65a5669d6b",
+                  "children": [
+                    {
+                      "text": "single source of truth"
+                    }
+                  ]
+                },
+                {
+                  "text": " for projects and products."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Prevent "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Information Loss",
+                  "id": "c5d3f81c-82c2-4a56-b620-b2939d5a9d0e",
+                  "children": [
+                    {
+                      "text": "Information Loss"
+                    }
+                  ]
+                },
+                {
+                  "text": " and "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Tool Tedium",
+                  "id": "6ee52251-416a-4371-833d-6e19c36a9536",
+                  "children": [
+                    {
+                      "text": "Tool Tedium"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading-four",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Opportunity",
+                  "id": "10eb1d87-8263-4d78-86ef-e60c0274b2a4",
+                  "children": [
+                    {
+                      "text": "Opportunity"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading-four",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "The promised land",
+                  "id": "757dd359-204f-4a72-bc3a-94082d081ffc",
+                  "children": [
+                    {
+                      "text": "The promised land"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading-five",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Differentiation",
+                  "id": "169d8e97-ef78-466f-b019-8870393a04c6",
+                  "children": [
+                    {
+                      "text": "Differentiation"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading-five",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Benefits",
+                  "id": "0c66ad2d-5def-4de4-bf14-37110e359f97",
+                  "children": [
+                    {
+                      "text": "Benefits"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading-five",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2ba4ef05-1bbc-460c-946b-3efcb291efa1",
+                  "icon": "files",
+                  "title": "Why Now?"
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading-five",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Strategy",
+                  "id": "678795b1-a59e-4ee5-bb6a-bcb637bc1fc3",
+                  "children": [
+                    {
+                      "text": "Strategy"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading-five",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Business model",
+                  "id": "94742be1-ab1b-4f55-8abd-8970bed154e4",
+                  "children": [
+                    {
+                      "text": "Business model"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading-five",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Team",
+                  "id": "840c234d-3e53-4cc8-9970-15dece4ab790",
+                  "children": [
+                    {
+                      "text": "Team"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "heading-five",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Staged Growth",
+                  "id": "9f32ea49-df27-4066-a23b-637fb5ba5463",
+                  "children": [
+                    {
+                      "text": "Staged Growth"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A single source of truth for projects and products"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Transforming organizations into efficient collaboration machines"
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "type": "attachment",
+                  "src": "c8ba563a-4e04-4f87-83aa-60ffca9c4b7c",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Living Spec Pitch Spec",
+      "id": "7f85065b-d870-4d3c-a1b0-59eefa56a6b3",
+      "links": [
+        "16c2f3cc-6559-49f6-ba6f-55f863b8beb8",
+        "d37a79ab-907a-4e1c-9780-e7012948b356",
+        "14d82191-de41-429c-935c-39e24c2b5292",
+        "1f7887de-4ea6-4c0d-b9c0-b4ae99846a22",
+        "f4cfc9cb-022e-41af-8fdd-8b65a5669d6b",
+        "c5d3f81c-82c2-4a56-b620-b2939d5a9d0e",
+        "6ee52251-416a-4371-833d-6e19c36a9536",
+        "10eb1d87-8263-4d78-86ef-e60c0274b2a4",
+        "2ba4ef05-1bbc-460c-946b-3efcb291efa1",
+        "757dd359-204f-4a72-bc3a-94082d081ffc",
+        "169d8e97-ef78-466f-b019-8870393a04c6",
+        "0c66ad2d-5def-4de4-bf14-37110e359f97",
+        "678795b1-a59e-4ee5-bb6a-bcb637bc1fc3",
+        "94742be1-ab1b-4f55-8abd-8970bed154e4",
+        "840c234d-3e53-4cc8-9970-15dece4ab790",
+        "9f32ea49-df27-4066-a23b-637fb5ba5463",
+        "edfca9f5-f13c-4891-9c8e-3ec92c5c8cf1",
+        "b3625280-3567-4dc3-aca4-5c85a4ac9333"
+      ],
+      "files": [
+        "8d368121-84cb-498e-8ceb-74938337dd84",
+        "a22a01bf-546a-432d-a27f-c98aa48b5bef",
+        "c8ba563a-4e04-4f87-83aa-60ffca9c4b7c",
+        "3acc5cd5-0a2e-4224-9a09-db2e75b1dd36"
+      ]
+    },
+    "b3625280-3567-4dc3-aca4-5c85a4ac9333": {
+      "contents": "",
+      "title": "represent",
+      "id": "b3625280-3567-4dc3-aca4-5c85a4ac9333",
+      "links": [],
+      "files": []
+    },
+    "f4cfc9cb-022e-41af-8fdd-8b65a5669d6b": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "unordered-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Organizations struggle to "
+                        },
+                        {
+                          "text": "collaborate efficiently",
+                          "bold": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "type": "lspecFeature",
+                          "fromText": "Information loss",
+                          "id": "70f347a6-98e9-40f9-98d3-8291b3b1b4bd",
+                          "children": [
+                            {
+                              "text": "Information loss"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " costs each large US company ~$47M/year"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "type": "lspecFeature",
+                          "fromText": "Distributed teams",
+                          "id": "ca1f78d4-1673-4263-9cac-22b29477e619",
+                          "children": [
+                            {
+                              "text": "Distributed teams"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " amplify the challenges"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "type": "attachment",
+                  "src": "03894fec-5169-49ab-9fbc-0788df67ebc4",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "single source of truth",
+      "id": "f4cfc9cb-022e-41af-8fdd-8b65a5669d6b",
+      "links": [
+        "70f347a6-98e9-40f9-98d3-8291b3b1b4bd",
+        "ca1f78d4-1673-4263-9cac-22b29477e619"
+      ],
+      "files": ["03894fec-5169-49ab-9fbc-0788df67ebc4"]
+    },
+    "ca1f78d4-1673-4263-9cac-22b29477e619": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Example: "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Define some requirements",
+                  "id": "419fcd55-4d4e-4aa2-b802-aaf1f56fdd44",
+                  "children": [
+                    {
+                      "text": "Define some requirements"
+                    }
+                  ]
+                },
+                {
+                  "text": " for how to best support distributed teams."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "Do something else",
+                  "id": "efe3a587-378e-4d46-8332-39038f2f8f32",
+                  "children": [
+                    {
+                      "text": "Do something else"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Distributed teams",
+      "id": "ca1f78d4-1673-4263-9cac-22b29477e619",
+      "links": [
+        "419fcd55-4d4e-4aa2-b802-aaf1f56fdd44",
+        "efe3a587-378e-4d46-8332-39038f2f8f32"
+      ],
+      "files": []
+    },
+    "9f32ea49-df27-4066-a23b-637fb5ba5463": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "First Million"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Bring solid MVP to market"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Establish early loyal user base"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Implement high priority product integrations"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Second Million"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Finish foundation to support rapid growth"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "More mature product to market"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Early automation and enterprise features"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "More integrations to ease adoption"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Staged Growth",
+      "id": "9f32ea49-df27-4066-a23b-637fb5ba5463",
+      "links": [],
+      "files": []
+    },
+    "840c234d-3e53-4cc8-9970-15dece4ab790": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "World leaders in building, managing, leading, and consulting on software products"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Increasingly frustrated with the status quo of how companies collaborate and document decisions"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "DYLAN SCHIEMANN"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "FOUNDER & CEO"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Pioneered JavaScript and TypeScript frameworks & remote-first leadership and consulting (SitePen. Dojo)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "NEMANJA TOSIC"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "FOUNDER & CTO"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Expert in efficient software architecture and software collaboration methodologies"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "GIANG TRUONG"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "PRODUCT MANAGEMENT"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Exceptional Enterprise Business Analyst. Ex-Sogeti, Thomson Reuters"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "NEIL ROBERTS"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "SENIOR SOFTWARE ENGINEER"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Outstanding creator of web and mobile user experiences"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Former co-founder, Change Point of Sale"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "PAUL SHANNON"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "SENIOR SOFTWARE ENGINEER"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Expert in web app architecture and VR/XR, Ex-Shutterfly, SitePen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ADVISORS / PARTNERS"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "TAYLOR COIL (marketing)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "ROD THOMAS (enterprise)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "SITEPEN (ui/ux design)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "MATT TABIN (consulting)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "DANIEL GUDEMA (marketing)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Team",
+      "id": "840c234d-3e53-4cc8-9970-15dece4ab790",
+      "links": [],
+      "files": []
+    },
+    "94742be1-ab1b-4f55-8abd-8970bed154e4": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "SaaS (free, small, team, enterprise)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "User types (creators, collaborators, viewers)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Differentiation (limits, size, integrations, enterprise features)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Payment (monthly or annual, user type and plan type)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Business model",
+      "id": "94742be1-ab1b-4f55-8abd-8970bed154e4",
+      "links": [],
+      "files": []
+    },
+    "678795b1-a59e-4ee5-bb6a-bcb637bc1fc3": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Leverage extensive enterprise and technology network of our team and advisors for early adoption"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Integrations with key technologies enterprises already leverage to eliminate onboarding and adoption obstacles"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Gently gamified onboarding to encourage use and adoption"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Key metrics on time/effort/efficiency saved within each organization and in-aggregate (even better with automations) and flood the market with these insights"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "type": "attachment",
+                  "src": "0864c78c-1158-48a3-82bd-825d2e23a9e7",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Strategy",
+      "id": "678795b1-a59e-4ee5-bb6a-bcb637bc1fc3",
+      "links": [],
+      "files": ["0864c78c-1158-48a3-82bd-825d2e23a9e7"]
+    },
+    "2ba4ef05-1bbc-460c-946b-3efcb291efa1": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In the past, bad tools could be more easily avoided or ignored via in-person meetings"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Now everyone is working from home"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Tools that were previously “good enough” are now obviously not enough when everyone needs to use them every day, amplifying the problem"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Reduces a barrier to market resistance as everyone is looking for more efficient ways to collaborate, even if/when people return to the office"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "type": "attachment",
+                  "src": "82adbbfe-7ccb-4254-b3f8-50ac02429ee8",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Why now?",
+      "id": "2ba4ef05-1bbc-460c-946b-3efcb291efa1",
+      "links": [],
+      "files": ["82adbbfe-7ccb-4254-b3f8-50ac02429ee8"]
+    },
+    "c5d3f81c-82c2-4a56-b620-b2939d5a9d0e": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Organizations lack a shared "
+                },
+                {
+                  "type": "lspecFeature",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "f4cfc9cb-022e-41af-8fdd-8b65a5669d6b",
+                  "icon": "files",
+                  "title": "single source of truth"
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Where is the information I need?",
+                  "bold": true
+                },
+                {
+                  "text": " Buried in "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "disparate systems",
+                  "id": "a3a6cd4e-6004-41da-908b-761e6e944662",
+                  "children": [
+                    {
+                      "text": "disparate systems"
+                    }
+                  ]
+                },
+                {
+                  "text": ", "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "tasks",
+                  "id": "138a8c9b-70ad-4a9a-af5c-e8d192674f76",
+                  "children": [
+                    {
+                      "text": "tasks"
+                    }
+                  ]
+                },
+                {
+                  "text": ", people’s heads, verbally at meetings, in chat"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Decisions made "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "lacking context",
+                  "id": "f67fa64f-b936-4c70-af10-bedaae607742",
+                  "children": [
+                    {
+                      "text": "lacking context"
+                    }
+                  ]
+                },
+                {
+                  "text": ", not communicated"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "type": "attachment",
+                  "src": "ea9b30b0-ec83-4c1d-812b-6766c20d9120",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "type": "attachment",
+                  "src": "344a98a0-31df-49db-9018-e00d0e7f87a1",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Information Loss",
+      "id": "c5d3f81c-82c2-4a56-b620-b2939d5a9d0e",
+      "links": [
+        "a3a6cd4e-6004-41da-908b-761e6e944662",
+        "138a8c9b-70ad-4a9a-af5c-e8d192674f76",
+        "f67fa64f-b936-4c70-af10-bedaae607742"
+      ],
+      "files": [
+        "d2fe80cd-939f-4f9f-bbfd-2484f07b687b",
+        "b7227d57-8fe8-4f6b-b1e5-9e71adf2b2cf",
+        "344a98a0-31df-49db-9018-e00d0e7f87a1",
+        "ea9b30b0-ec83-4c1d-812b-6766c20d9120"
+      ]
+    },
+    "0c66ad2d-5def-4de4-bf14-37110e359f97": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "heading-four",
+              "children": [
+                {
+                  "text": "Communication"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Teams will save substantial time in communication and tedious tasks, onboarding, and more"
+                }
+              ]
+            },
+            {
+              "type": "heading-four",
+              "children": [
+                {
+                  "text": "Implementation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The right product gets built faster, substantially saving organizations"
+                }
+              ]
+            },
+            {
+              "type": "heading-four",
+              "children": [
+                {
+                  "text": "Transparency"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Organizers operate and get managed more efficiently with better transparency and institutional memory and knowledge"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Benefits",
+      "id": "0c66ad2d-5def-4de4-bf14-37110e359f97",
+      "links": [],
+      "files": []
+    },
+    "169d8e97-ef78-466f-b019-8870393a04c6": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Streamlining workflows",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Living Spec provides a foundation for getting things done and keeping key information current, consistent, and accurate"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Tooling and automation that make sense to product teams and don’t feel like the software equivalent of an unhelpful project manager"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Documents",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Less tedious than dozens of form fields, organized hierarchy"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Light",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Feels fun and easy to use, saving time and effort"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Integrate",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Connect key systems and teams together"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Graph API",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Efficiently gather and aggregate insights"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Context",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Collaborate on key details in context rather than fragments"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Automate",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Workflows, tasks, and insights insights with "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "NLP",
+                  "id": "e6cb2afc-3215-4f0a-91df-52a49c229b43",
+                  "children": [
+                    {
+                      "text": "NLP"
+                    }
+                  ]
+                },
+                {
+                  "text": ", "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "text to speech",
+                  "id": "2fa6ba2d-f27a-49b4-837c-a6728363ac3d",
+                  "children": [
+                    {
+                      "text": "text to speech"
+                    }
+                  ]
+                },
+                {
+                  "text": ", & "
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "ML",
+                  "id": "4da6b166-5040-4d95-92d0-58916aebd0c2",
+                  "children": [
+                    {
+                      "text": "ML"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Differentiation",
+      "id": "169d8e97-ef78-466f-b019-8870393a04c6",
+      "links": [
+        "e6cb2afc-3215-4f0a-91df-52a49c229b43",
+        "2fa6ba2d-f27a-49b4-837c-a6728363ac3d",
+        "4da6b166-5040-4d95-92d0-58916aebd0c2"
+      ],
+      "files": []
+    },
+    "757dd359-204f-4a72-bc3a-94082d081ffc": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "When projects "
+                },
+                {
+                  "text": "evolve",
+                  "bold": true
+                },
+                {
+                  "text": ", context is crucial"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Living Spec is an"
+                },
+                {
+                  "text": " ",
+                  "bold": true
+                },
+                {
+                  "type": "lspecFeature",
+                  "fromText": "internal hub",
+                  "id": "3b0c1a4a-b3e1-473c-8b9e-1e362dbdac87",
+                  "children": [
+                    {
+                      "text": "internal hub"
+                    }
+                  ]
+                },
+                {
+                  "text": " for a project’s scope, progress, and vision that "
+                },
+                {
+                  "text": "supports",
+                  "bold": true
+                },
+                {
+                  "text": " agile processes instead of fighting against them"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It's not “either or”, it’s “both and”:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Asynchronous and synchronous"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Collaborative and autonomous"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Unified vision and agile processes"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "type": "attachment",
+                  "src": "7a9c3ea6-62bf-42e7-a082-35fedb0ac20e",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "The promised land",
+      "id": "757dd359-204f-4a72-bc3a-94082d081ffc",
+      "links": ["3b0c1a4a-b3e1-473c-8b9e-1e362dbdac87"],
+      "files": ["7a9c3ea6-62bf-42e7-a082-35fedb0ac20e"]
+    },
+    "10eb1d87-8263-4d78-86ef-e60c0274b2a4": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Multi-Billion dollar market"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "From Confluence to Google Docs to SharePoint, Coda to Notion, Airtable to Taskade, many companies provide productivity solutions."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "None feel natural or efficient for providing an efficient single source of truth."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Three general types of products:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "unordered-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "type": "lspecFeature",
+                          "fromText": "Unstructured documents",
+                          "id": "83e4e727-ab02-4604-8101-ed2087369230",
+                          "children": [
+                            {
+                              "text": "Unstructured documents"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " , e.g. access in the cloud"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Highly structured "
+                        },
+                        {
+                          "type": "lspecFeature",
+                          "fromText": "Highly structured task and project managers",
+                          "id": "3771b128-611c-44bd-a5d3-83083b59d133",
+                          "children": [
+                            {
+                              "text": "Highly structured task and project managers"
+                            }
+                          ]
+                        },
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "type": "lspecFeature",
+                          "fromText": "Chat/communications tools",
+                          "id": "7990ef03-f09b-4267-90cd-7b84a88d7d63",
+                          "children": [
+                            {
+                              "text": "Chat/communications tools"
+                            }
+                          ]
+                        },
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "c5d3f81c-82c2-4a56-b620-b2939d5a9d0e",
+                  "icon": "files",
+                  "title": "Information Loss"
+                },
+                {
+                  "text": " occurs throughout the process."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "figure",
+              "children": [
+                {
+                  "type": "attachment",
+                  "src": "22b28d4f-e4ee-4957-baca-3f5e23e5efc9",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Opportunity",
+      "id": "10eb1d87-8263-4d78-86ef-e60c0274b2a4",
+      "links": [
+        "83e4e727-ab02-4604-8101-ed2087369230",
+        "3771b128-611c-44bd-a5d3-83083b59d133",
+        "7990ef03-f09b-4267-90cd-7b84a88d7d63"
+      ],
+      "files": ["22b28d4f-e4ee-4957-baca-3f5e23e5efc9"]
+    },
+    "7990ef03-f09b-4267-90cd-7b84a88d7d63": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interesting discussions happen in Slack, Teams, Zoom, etc."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Without a super organized manager, these details never end up in the shared spec and history, instead buried in people's heads."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Chat/communications tools",
+      "id": "7990ef03-f09b-4267-90cd-7b84a88d7d63",
+      "links": [],
+      "files": []
+    },
+    "3771b128-611c-44bd-a5d3-83083b59d133": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "You can easily see what needs to happen by whom"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Process is good (or too strict?), but "
+                },
+                {
+                  "text": "context",
+                  "bold": true
+                },
+                {
+                  "text": " gets "
+                },
+                {
+                  "text": "lost",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Workflows are "
+                },
+                {
+                  "text": "fragmented",
+                  "bold": true
+                },
+                {
+                  "text": ", key details "
+                },
+                {
+                  "text": "buried",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Can't see the "
+                },
+                {
+                  "text": "big picture",
+                  "bold": true
+                },
+                {
+                  "text": ", things get"
+                },
+                {
+                  "text": " off track",
+                  "bold": true
+                },
+                {
+                  "text": " without process for meaningful realignment "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Recreating a spec",
+                  "bold": true
+                },
+                {
+                  "text": " into separate tasks through a task management tool is tedious and redundant"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Examples: Jira, Basecamp, Monday, Linear, Asana, Trello, Taskade, Clubhouse, Evernote, Aha, etc."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "task and project managers",
+      "id": "3771b128-611c-44bd-a5d3-83083b59d133",
+      "links": [],
+      "files": []
+    },
+    "83e4e727-ab02-4604-8101-ed2087369230": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Typically requires significant "
+                },
+                {
+                  "text": "process, planning, data architecture",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "lspecFeature",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "6ee52251-416a-4371-833d-6e19c36a9536",
+                  "icon": "files",
+                  "title": "Tool Tedium"
+                },
+                {
+                  "text": ": time wasted on data restructuring"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ideal for "
+                },
+                {
+                  "text": "wordsmiths",
+                  "bold": true
+                },
+                {
+                  "text": " but not engineers"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Frustration",
+                  "bold": true
+                },
+                {
+                  "text": " sets in with either lack of organization or tedium"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Not enough value",
+                  "bold": true
+                },
+                {
+                  "text": " provided over time"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Lack of meaningful adoption or "
+                },
+                {
+                  "text": "inefficient use for collaboration",
+                  "bold": true
+                },
+                {
+                  "text": " by enterprises"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Examples: Confluence, Notion, Coda, Slite, CardboardIT, Aha, AirTable, Google Docs, Office, SharePoint, Wikis, etc."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Unstructured documents",
+      "id": "83e4e727-ab02-4604-8101-ed2087369230",
+      "links": [],
+      "files": []
+    },
+    "6ee52251-416a-4371-833d-6e19c36a9536": {
+      "contents": [
+        {
+          "type": "document",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Existing systems are tedious, fail to provide sufficient benefits, don’t align with human nature - so much ⌛ time and 💸 money gets wasted "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Tool Tedium",
+      "id": "6ee52251-416a-4371-833d-6e19c36a9536",
+      "links": [],
+      "files": []
+    },
+    "f67fa64f-b936-4c70-af10-bedaae607742": {
+      "contents": "",
+      "title": "lacking context",
+      "id": "f67fa64f-b936-4c70-af10-bedaae607742",
+      "links": [],
+      "files": []
+    },
+    "1f7887de-4ea6-4c0d-b9c0-b4ae99846a22": {
+      "contents": "",
+      "title": "single source of truth",
+      "id": "1f7887de-4ea6-4c0d-b9c0-b4ae99846a22",
+      "links": [],
+      "files": []
+    },
+    "14d82191-de41-429c-935c-39e24c2b5292": {
+      "contents": "",
+      "title": "single source of truth",
+      "id": "14d82191-de41-429c-935c-39e24c2b5292",
+      "links": [],
+      "files": []
+    },
+    "d37a79ab-907a-4e1c-9780-e7012948b356": {
+      "contents": "",
+      "title": "single source of truth",
+      "id": "d37a79ab-907a-4e1c-9780-e7012948b356",
+      "links": [],
+      "files": []
+    },
+    "16c2f3cc-6559-49f6-ba6f-55f863b8beb8": {
+      "contents": "",
+      "title": "single source of truth",
+      "id": "16c2f3cc-6559-49f6-ba6f-55f863b8beb8",
+      "links": [],
+      "files": []
+    }
+  },
+  "deleted": false,
+  "comments": [],
+  "ownerId": "users/2595-A",
+  "published": false,
+  "@metadata": {
+    "@collection": "Performance"
+  }
+}
